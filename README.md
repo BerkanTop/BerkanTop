@@ -1,16 +1,16 @@
-## Hi there 👋
+##Repository klonen
+git clone git@github.com:BerkanTop/BerkanTop.git
 
-<!--
-**BerkanTop/BerkanTop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## hinzufügen von allen veränderten Dateien
+git add .
 
-Here are some ideas to get you started:
+##Kommentar hinzufügen
+git commit -m "Kommentar"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##was verändert wurde kommt nach oben
+git push origin main
+
+##alles runterziehen
+git pull
+
+
